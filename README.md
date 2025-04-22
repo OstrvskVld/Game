@@ -1,1 +1,1 @@
-[Start game!](task_1.js)
+[Start game!](task_1.html)
